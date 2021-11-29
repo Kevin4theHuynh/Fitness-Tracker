@@ -36,7 +36,6 @@ const trackWorkout = new Schema({
             distance: {
                 type: Number,
                 default: 0,
-
             }
         }
     ]
